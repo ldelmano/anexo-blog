@@ -32,13 +32,7 @@ export default defineAppConfig({
       message: "", // string that will be displayed in the footer (leave empty or delete to disable)
     },
     socials: {
-      twitter: "",
       instagram: "projetoanexo03",
-      linkedin: {
-        icon: "uil:linkedin",
-        label: "LinkedIn",
-        href: "https://www.linkedin.com/company/nuxtlabs",
-      },
     },
     form: {
       successMessage: "Message sent. Thank you!",
